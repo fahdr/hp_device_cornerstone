@@ -13,7 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+/*
+Ending support for this EOL library
+*/
 package android.app;
 
 import android.content.ComponentName;
